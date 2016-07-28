@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IntentServiceTutorial</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="notification_no_memory">NO Memory</string>
+    <string name="notification_error">Notification Error</string>
+    <string name="notification_catalog_downloaded">Download Started</string>
+    <string name="title_activity_download_progress">DownloadProgress</string>
+</resources>
